@@ -26,19 +26,13 @@ import {
   Globe,
   Wifi,
   Server,
-  Hash,
   Fingerprint,
   Clock3,
   UserCheck,
-  Compass,
-  FileText,
-  ChevronRight,
   Shield,
   KeyRound,
   Info,
-  ExternalLink,
-  SlidersHorizontal,
-  HelpCircle
+  SlidersHorizontal
 } from 'lucide-react';
 
 // ==========================================
